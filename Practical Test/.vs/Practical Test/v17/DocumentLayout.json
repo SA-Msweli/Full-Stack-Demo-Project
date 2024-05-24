@@ -1,0 +1,41 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\bbdnet2620\\Documents\\My Documents\\Code Practice\\Full Stack Demo Project\\Practical Test\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{E9ED48D8-D08A-4C0A-B5CE-E1B46CBA420A}|Practical Test\\Practical Test.csproj|c:\\users\\bbdnet2620\\documents\\my documents\\code practice\\full stack demo project\\practical test\\practical test\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E9ED48D8-D08A-4C0A-B5CE-E1B46CBA420A}|Practical Test\\Practical Test.csproj|solutionrelative:practical test\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 258,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\bbdnet2620\\Documents\\My Documents\\Code Practice\\Full Stack Demo Project\\Practical Test\\Practical Test\\Program.cs",
+              "RelativeDocumentMoniker": "Practical Test\\Program.cs",
+              "ToolTip": "C:\\Users\\bbdnet2620\\Documents\\My Documents\\Code Practice\\Full Stack Demo Project\\Practical Test\\Practical Test\\Program.cs",
+              "RelativeToolTip": "Practical Test\\Program.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABQAAAAHAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-24T15:10:17.332Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{cce594b6-0c39-4442-ba28-10c64ac7e89f}"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
