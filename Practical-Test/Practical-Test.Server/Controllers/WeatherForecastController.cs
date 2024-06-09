@@ -1,10 +1,11 @@
 using Microsoft.AspNetCore.Mvc;
+using Practical_Test.Server.Models;
 
 namespace Practical_Test.Server.Controllers
 {
   [ApiController]
   [Route("[controller]")]
-  public class WeatherForecastController : ControllerBase
+  public class WeatherForecastController : Controller
   {
     private static readonly string[] Summaries = new[]
     {

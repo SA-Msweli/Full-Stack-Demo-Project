@@ -1,4 +1,4 @@
-namespace Practical_Test.Server
+namespace Practical_Test.Server.Models
 {
   public class WeatherForecast
   {
